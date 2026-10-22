@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.3.0 — 2026-10-22
+
+- Add the water-surface layer to mascot guidance: slow rings, jump ripples,
+  splash droplets, and a subtle glass-card response.
+- Keep water as CSS, not a landscape photo; respect reduced-motion and never
+  intercept touches.
+
+
 ## 1.2.0 — 2026-10-22
 
 - Add `references/mascot.md`: assistant avatar vs pet system, interactive and
