@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+artifacts/
+*.png
+*.jpg
+*.jpeg
+*.webp
+__pycache__/
+.DS_Store
