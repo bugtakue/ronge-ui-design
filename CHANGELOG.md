@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.4.0 — 2026-10-22
+
+- Evolve the ambient mascot from a single horizontal swim into a full breach
+  event: rise from water, swim on the surface, dive back, with wake and splash,
+  at randomized heights and staggered timings.
+
+
 ## 1.3.0 — 2026-10-22
 
 - Add the water-surface layer to mascot guidance: slow rings, jump ripples,
