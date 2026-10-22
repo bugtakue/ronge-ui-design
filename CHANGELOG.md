@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.5.0 — 2026-10-22
+
+- Add `references/composition.md`: test whether an element still works when
+  detached from its parent. Secondary actions belong in a footer/row inside the
+  same object; do not leave dismiss actions floating outside a card.
+- Add the independence check to the audit.
+
+
 ## 1.4.0 — 2026-10-22
 
 - Evolve the ambient mascot from a single horizontal swim into a full breach
