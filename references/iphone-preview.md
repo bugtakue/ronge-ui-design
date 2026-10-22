@@ -61,7 +61,8 @@ Production builds must keep the real entry point. Each direction is built and ca
 
 ## 5. Accessibility
 
-- Body ≥ 11pt; captions ≥ 10pt; key old states remain readable.
+- Body 15–17pt; captions/sources ≥12pt; decision/action text ≥15pt.
+- 8–10pt must not carry information; key old states remain readable.
 - Dynamic Type: no truncation or overlapping controls at large sizes.
 - Icon buttons have VoiceOver labels.
 - Respect reduce-motion.

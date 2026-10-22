@@ -19,6 +19,7 @@ REQUIRED = [
     "references/iphone-preview.md",
     "references/audit.md",
     "references/handoff.md",
+    "references/typography.md",
     "references/accessibility.md",
     "references/motion.md",
     "references/validation.md",

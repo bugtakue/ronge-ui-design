@@ -49,7 +49,8 @@ description: >-
 4. **图要呼吸，不要贴纸。** 图必须绑定来源、情绪或地面关系，不能抢结论。
 5. **不编数据、不做假图表、不做假按钮。** 设计示意数据必须标注 preview。
 6. **不替用户拿主意。** 展示“结论要重看”，动作回到用户确认。
-7. **品牌/产品规则以 preset 为准。** 当前项目读 `presets/example-product.md`；通用核心不绑定任何产品。
+7. **字号是硬门槛。** 影响判断/行动的文字 ≥15pt；用户需要读的说明/标签 ≥12pt；8–10pt 不得承载信息。见 `references/typography.md`。
+8. **品牌/产品规则以 preset 为准。** 当前项目读 `presets/example-product.md`；通用核心不绑定任何产品。
 
 ## 3. 三阶段
 
@@ -97,6 +98,7 @@ description: >-
 | `references/iphone-preview.md` | 真实 iPhone 截图、状态矩阵、安全区 |
 | `references/audit.md` | 交付前逐项检查 |
 | `references/handoff.md` | 设计 token、组件状态、动效、实现交接 |
+| `references/typography.md` | 字体阶梯、最小字号、Dynamic Type、截图审计 |
 | `references/accessibility.md` | 对比度、Dynamic Type、VoiceOver、触控 |
 | `references/motion.md` | 动效预算、允许/不允许、验收 |
 | `references/validation.md` | 5 秒测试、任务测试、上线后度量 |

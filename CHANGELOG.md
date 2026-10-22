@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.0 — 2026-10-22
+
+- Add `references/typography.md`: minimum type scale, Dynamic Type, screenshot audit.
+- Raise minimums: body 15–17pt, readable captions/sources ≥12pt, decision/action text ≥15pt.
+- Ban 8–10pt for information; tighten accessibility and audit checks.
+
+
 ## 1.0.0 — 2026-10-22
 
 - First public generic core: Discover / Define / Deliver.
