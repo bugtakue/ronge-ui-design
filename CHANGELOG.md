@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.2.0 — 2026-10-22
+
+- Add `references/mascot.md`: assistant avatar vs pet system, interactive and
+  ambient layers, full-body clipping check, swim/jump motion and reduced-motion.
+- Add mascot checks to the audit.
+- Record a real iOS animation of the ambient fish.
+
+
 ## 1.1.0 — 2026-10-22
 
 - Add `references/typography.md`: minimum type scale, Dynamic Type, screenshot audit.

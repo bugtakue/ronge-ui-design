@@ -20,6 +20,7 @@ REQUIRED = [
     "references/audit.md",
     "references/handoff.md",
     "references/typography.md",
+    "references/mascot.md",
     "references/accessibility.md",
     "references/motion.md",
     "references/validation.md",

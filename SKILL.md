@@ -50,7 +50,8 @@ description: >-
 5. **不编数据、不做假图表、不做假按钮。** 设计示意数据必须标注 preview。
 6. **不替用户拿主意。** 展示“结论要重看”，动作回到用户确认。
 7. **字号是硬门槛。** 影响判断/行动的文字 ≥15pt；用户需要读的说明/标签 ≥12pt；8–10pt 不得承载信息。见 `references/typography.md`。
-8. **品牌/产品规则以 preset 为准。** 当前项目读 `presets/example-product.md`；通用核心不绑定任何产品。
+8. **吉祥物是助手化身，不是宠物系统。** 交互层完整可点；环境层 `pointer-events:none`、低透明度、尊重减少动态。见 `references/mascot.md`。
+9. **品牌/产品规则以 preset 为准。** 当前项目读 `presets/example-product.md`；通用核心不绑定任何产品。
 
 ## 3. 三阶段
 
@@ -99,6 +100,7 @@ description: >-
 | `references/audit.md` | 交付前逐项检查 |
 | `references/handoff.md` | 设计 token、组件状态、动效、实现交接 |
 | `references/typography.md` | 字体阶梯、最小字号、Dynamic Type、截图审计 |
+| `references/mascot.md` | 助手化身/背景鱼、状态、裁切检查、动效 |
 | `references/accessibility.md` | 对比度、Dynamic Type、VoiceOver、触控 |
 | `references/motion.md` | 动效预算、允许/不允许、验收 |
 | `references/validation.md` | 5 秒测试、任务测试、上线后度量 |
